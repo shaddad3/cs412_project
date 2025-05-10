@@ -25,7 +25,3 @@ Per the license:
 ## 🙋‍♂️ Acknowledgements
 
 Special thanks to the TensorFlow team for creating the original playground, which remains an excellent educational tool for understanding neural networks.
-
-## 📬 Contact
-
-For questions or further modifications, feel free to contact [Your Name](mailto:your.email@domain.com).
