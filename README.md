@@ -6,10 +6,10 @@ This project is a modified version of the [TensorFlow Neural Network Playground]
 
 The following changes have been made to the original playground:
 
-- Added new synthetic datasets: `checkerboard`, `moons`,
-- Implemented autofill feature that suggests neural network configurations based on the selected dataset
-- Added popup explanation when autofilling a dataset to improve user understanding 
-- UI adjustments for new datasets and autofill butoon
+- Added new synthetic datasets: `checkerboard`, `moons` (changes inside of dataset.ts)
+- Implemented autofill feature that suggests neural network configurations based on the selected dataset (changes in presetConfigs.ts, playground.ts)
+- Added popup explanation when autofilling a dataset to improve user understanding (changes in presetConfigs.ts, playground.ts)
+- UI adjustments for new datasets and autofill button (changes in playground.ts)
 
 > These modifications were made for academic and educational purposes, as part of a course project.
 
